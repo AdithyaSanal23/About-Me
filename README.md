@@ -1,1 +1,1 @@
-# About-Me
+Adithya is a graduate from VIT Vellore in BTech CSE and his strongest subjects were Database Systems and Python. Entry-level technology enthusiast with academic exposure to computer systems and IT infrastructure through internship shadowing and hands-on projects. Strong interest in cybersecurity, with foundational understanding of network protocols, access control, and threat detection. Well-versed in Python and system-level thinking. Confident communicator and fast learner seeking to grow in a security-focused tech role.
